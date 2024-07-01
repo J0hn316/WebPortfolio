@@ -289,7 +289,7 @@ const Resume = () => {
                     size="lg"
                     className="uppercase flex items-center gap-2"
                   >
-                    <Link href={''} target={'_blank'}>
+                    <Link href={'/WebDevResume.pdf'} target={'_blank'}>
                       Download Resume
                     </Link>
                     <FiDownload className="text-xl" />
