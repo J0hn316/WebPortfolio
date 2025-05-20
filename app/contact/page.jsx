@@ -55,7 +55,7 @@ const Contact = () => {
                 you&apos;d like to get in touch, please click on the email icon
                 to copy my email address, and I&apos;ll respond as soon as I
                 can. To connect on LinkedIn or view my GitHub, click on the
-                respective icons on the left.
+                respective icons.
               </p>
             </form>
           </div>
