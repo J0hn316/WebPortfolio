@@ -71,11 +71,11 @@ const certification = {
   items: [
     {
       certificateName: 'CompTIA A+',
-      certificateDetails: '2018',
+      certificateDetails: '2018-2024',
     },
     {
       certificateName: 'CompTIA Network +',
-      certificateDetails: '2021',
+      certificateDetails: '2021-2024',
     },
     {
       certificateName: 'Per Scholas Software Engineering Certificate',
